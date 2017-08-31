@@ -13,6 +13,7 @@
 		7110D9E51F54C86800C4CC2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7110D9E41F54C86800C4CC2E /* Assets.xcassets */; };
 		7110D9E81F54C86800C4CC2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7110D9E61F54C86800C4CC2E /* LaunchScreen.storyboard */; };
 		7110D9EB1F54C86800C4CC2E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7110D9EA1F54C86800C4CC2E /* main.m */; };
+		7110D9F21F54CA0800C4CC2E /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7110D9F11F54C9FF00C4CC2E /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7110D9E71F54C86800C4CC2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7110D9E91F54C86800C4CC2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7110D9EA1F54C86800C4CC2E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7110D9F11F54C9FF00C4CC2E /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				7110D9DF1F54C86800C4CC2E /* ViewController.m */,
 				7110D9E11F54C86800C4CC2E /* Main.storyboard */,
 				7110D9E41F54C86800C4CC2E /* Assets.xcassets */,
+				7110D9F11F54C9FF00C4CC2E /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg */,
 				7110D9E61F54C86800C4CC2E /* LaunchScreen.storyboard */,
 				7110D9E91F54C86800C4CC2E /* Info.plist */,
 				7110D9EA1F54C86800C4CC2E /* main.m */,
@@ -129,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7110D9F21F54CA0800C4CC2E /* 14029474122014-02-10_12-52-24__LaikaSpaceDog.jpg in Resources */,
 				7110D9E81F54C86800C4CC2E /* LaunchScreen.storyboard in Resources */,
 				7110D9E51F54C86800C4CC2E /* Assets.xcassets in Resources */,
 				7110D9E31F54C86800C4CC2E /* Main.storyboard in Resources */,

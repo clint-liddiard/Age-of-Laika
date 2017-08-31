@@ -10,6 +10,13 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UILabel *finalAge;
+
+@property (strong, nonatomic) IBOutlet UITextField *inputAge;
+
+- (IBAction)convertPress:(UIButton *)sender;
+@property (strong, nonatomic) IBOutlet UILabel *realYearsLabel;
+- (IBAction)convertToRealDYPressed:(UIButton *)sender;
 
 @end
 
